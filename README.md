@@ -1,2 +1,2 @@
 # gradient-descent
-This is my first git repository on gradient descent
+This is my first git repository where i have implemented gradient descent on linear regression by finding the right parameters for w and b which is weight and bias by optimizing the cost function and i have also learnt the concept of linear regression which i have implemented on a small arrays, but i have clearly understood how to implement gradient descent by understanding the concepts like learning rate,weight-bias parameters, local minima,global minima.This i can also implement these function of cost function and cost gradient  on a dataset itself  
